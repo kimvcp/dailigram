@@ -9,6 +9,8 @@ Our target group is a typical internet users who prefer writing journal online.
 
 <h1>kimonlyone</h1>
 
+# kimonlyone
+
 ## Team Members
 
 GitHub       |           Name           |               Roles
