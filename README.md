@@ -7,6 +7,8 @@
 **Dailigram** is an online diary which provides users free space to instantly preserve their moments and memories, including pictures. Plus, it's accessible anywhere and anytime through the internet, which is surely more convenient than carrying a diary book.
 Our target group is a typical internet users who prefer writing journal online. 
 
+<h1>kimonlyone</h1>
+
 ## Team Members
 
 GitHub       |           Name           |               Roles
